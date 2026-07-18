@@ -28,3 +28,37 @@ body {
 
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
+.profile-header{
+    text-align: center;
+}
+.profile-header img{
+
+    width:150px;
+
+    height:150px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:4px solid #4CAF50;
+
+    margin-bottom:20px;
+
+}
+.profile-header h1{
+
+    font-size:30px;
+
+    color:#222;
+
+    margin-bottom:10px;
+
+}
+.profile-header p{
+
+    color:#666;
+
+    font-size:18px;
+
+}
