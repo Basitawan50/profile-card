@@ -1,21 +1,28 @@
 # Personal Profile Card
 
-## Project Description
-This is my Week 1 Frontend Development task. It is a simple Personal Profile Card created using HTML and CSS.
+## Project Overview
+
+This project is a responsive Personal Profile Card built using semantic HTML and CSS only. It demonstrates the use of semantic elements, typography, responsive design, and modern CSS styling without using any frameworks or JavaScript.
 
 ## Features
-- Profile Image
-- Name
-- Short Bio
-- Contact Button
+
+- Semantic HTML5
 - Responsive Design
+- Profile Image
+- About Me Section
+- Social Media Links with Icons
+- Modern UI
+- CSS Hover Effects
 
 ## Technologies Used
+
 - HTML5
 - CSS3
+- Font Awesome
+- Google Fonts
 
 ## Author
+
 Muhammad Abdul Basit
 
-## Date
-July 2026
+Frontend Web Development Intern
